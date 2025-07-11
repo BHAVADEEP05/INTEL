@@ -16,6 +16,8 @@ This project implements a lightweight CNN model for single-image motion deblurri
 /train/blur/ # Blurred input images
 /train/sharp/ # Ground truth sharp images
 /teacher_outputs/ # Deblurred outputs from Restormer
+<img width="656" height="551" alt="image" src="https://github.com/user-attachments/assets/a0166e0f-961a-4b65-8fde-6cfce2a489de" />
+
 
 
 ---
