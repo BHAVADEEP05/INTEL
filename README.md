@@ -1,4 +1,4 @@
-# Motion Deblurring using Knowledge Distillation
+# Image Sharpening using knowledge distillation
 
 This project implements a lightweight CNN model for single-image motion deblurring using **knowledge distillation** from the pretrained **Restormer** model. The student model is trained on the **GoPro dataset** using supervision from both ground truth images and Restormer-generated outputs.
 
